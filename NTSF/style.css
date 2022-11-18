@@ -6,6 +6,7 @@
     border: 5px solid black;
     background-color:lightblue;
     border-radius: 10px;
+    padding-right: 5%;
 } 
 
 .footer
@@ -33,18 +34,18 @@
 
 .sinhala 
 {
-    height: 5vh;
+    height: 6vh;
 }
 
 .english
 {
     background-color: aqua;
-    height: 5vh;
+    height: 6vh;
 }  
 
 .tamil
 {
-    height: 5vh;
+    height: 6vh;
 }
 
 .chooseoption 
@@ -52,6 +53,7 @@
     align-items:center;
     display: flex;
     justify-content: space-between;
+    height: 100%;
 }
 
 .driver-button
@@ -62,6 +64,11 @@
     align-items:center;
     display: flex;
     justify-content: space-between;
+    width: 30vw;
+    height:100%;
+    font-size: larger;
+    padding-left: 30%;
+    
 } 
 
 .vehicle-button
@@ -72,6 +79,12 @@
     align-items:center;
     display: flex;
     justify-content: space-between;
+    width: 30vw;
+    height:100%;
+    font-size: larger;
+    padding-left: 30%;
+    
+
 } 
 
 .pedestrian-button
@@ -82,10 +95,27 @@
     align-items:center;
     display: flex;
     justify-content: space-between;
+    width: 30vw;
+    height:100%;
+    font-size: larger;
+    padding-left: 30%;
+}
+
+.driver{
+    height: 100%;
+}
+.vehicle{
+    height: 100%;
+}
+.Pedestrian{
+    height: 100%;
 }
 
 .list
 {
     text-size: 13px;
 }
- 
+
+button{
+    text-align: center;
+}
