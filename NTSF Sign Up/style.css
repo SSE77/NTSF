@@ -1,0 +1,121 @@
+.header
+{
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid black;
+    background-color:lightblue;
+    border-radius: 10px;
+    padding-right: 5%;
+}  
+
+.chooselanguage
+{
+    align-items:center;
+    display: flex;
+    text-align: center;
+} 
+
+.sinhala 
+{
+    height: 5vh;
+    width: 6vw;
+    border-radius: 5px;
+}
+
+.english
+{
+    background-color: #4B6E8E;
+    height: 5vh;
+    width: 6vw;
+    border-radius: 5px;
+}  
+
+.tamil
+{
+    height: 5vh;
+    width: 6vw;
+    border-radius: 5px;
+}
+
+.logo
+{
+    width: 40%;
+    display: flex;
+    padding: 20px 40px;
+    padding-left:30px;
+    padding-top: 30px;
+} 
+
+.footer
+{
+    background-color:#C2C4C6;
+    border-radius: 20px;
+    height: 60vh;
+    width:70vh;
+} 
+
+.filldetails
+{
+    padding-right: 120px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    text-align: right;
+} 
+
+.policeidfill
+{
+    padding-bottom: 5px;
+} 
+
+.nicfill
+{
+    padding-bottom: 5px;
+} 
+
+.emailfill
+{
+    padding-bottom: 5px;
+}
+
+.mobilefill
+{
+    padding-bottom: 5px;
+}
+
+.passwordfill1
+{
+    padding-bottom: 5px;
+} 
+
+.policeidfill2
+{
+    padding-bottom: 30px;
+    font-size:20px;
+}  
+
+.signup
+{
+    padding-top: 15px;
+    padding-right: 100px;
+}   
+
+.signup-btn 
+{   
+    height: 5vh;
+    width: 6vw;
+    border-radius:  70px;
+    background-color: #4B6E8E;
+    text-align: center;
+}  
+
+.option 
+{
+    padding-left: 70px;
+}
+
+.list
+{
+    display:flex;
+    justify-content: space-between;
+}
