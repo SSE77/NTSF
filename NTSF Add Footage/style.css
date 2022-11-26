@@ -144,14 +144,15 @@ body
 
 .pic1
 {
-    width:10px;
-    height:10px;
+    width:20vw;
 } 
 
 .pic2 
 {
-    width:10px;
-    height:10px;
+    width:20vw;
+}
+.midimg{
+    width: 100%;
 }
 
 .buttens 
