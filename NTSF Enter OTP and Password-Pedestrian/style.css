@@ -20,13 +20,20 @@ body
 .logo1
 {
     position: left;
-    width: 90px;
+    width: 10vw;
     display: flex;
     padding: 10px 40px;
     justify-content:left;
 } 
 
 .headline
+{
+    margin-top: 5px;
+    font-size:20px;
+    margin-right: 15px;
+    width: 100vw;
+} 
+.headline2
 {
     margin-top: 5px;
     font-size:20px;
